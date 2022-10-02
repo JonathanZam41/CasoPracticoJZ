@@ -25,7 +25,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasoPractico.Contracts", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasoPractico.Repository", "CasoPractico.Repository\CasoPractico.Repository.csproj", "{BC931D1D-7DCF-4EDC-BD30-DB5A38E8BB68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasoPractico.Api", "CasoPractico.Api\CasoPractico.Api.csproj", "{59D832BD-69A2-402D-81F4-1389B0179579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasoPractico.Api", "CasoPractico.Api\CasoPractico.Api.csproj", "{59D832BD-69A2-402D-81F4-1389B0179579}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "db", "db", "{EE5B2365-97BD-4277-B6A8-4F5440D2F4C0}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\jonth\OneDrive\Documentos\ScriptBase.sql = C:\Users\jonth\OneDrive\Documentos\ScriptBase.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
